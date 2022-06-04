@@ -1,0 +1,33 @@
+.logo {
+  height: 46px;
+  margin-bottom: 60px;
+}
+.logo:hover {
+  background-color: #ffffff;
+  cursor: pointer;
+}
+
+button {
+  font-weight: 600;
+  font-size: 20px;
+  outline: 0;
+  background: none;
+  border: 0;
+  line-height: 40px;
+  color: #707070;
+  cursor: pointer;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+button:hover {
+  color: #fd6d6d;
+}
+
+.logout{
+  position: fixed;
+  margin-top: 730px;
+
+
+}

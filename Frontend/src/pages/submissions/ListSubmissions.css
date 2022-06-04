@@ -1,0 +1,15 @@
+.body {
+    background-color: #f2f2f2;
+    
+}
+.tableCont{
+    max-width: 1300px;
+    background-color: #f2f2f2;
+    margin-top: 40px;
+   margin-left: 35px;
+}
+.tableHead{
+    font-size: 20px;
+    color: #fd6d6d;
+ 
+}
